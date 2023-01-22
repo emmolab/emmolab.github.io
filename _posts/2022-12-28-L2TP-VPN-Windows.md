@@ -1,5 +1,5 @@
 ---
-title: Hello HomeLab
+title: L2TP VPN Setup for Windows
 date: 2022-12-28 12:00:00
 categories: [Windows]
 tags: [Windows,VPN]
