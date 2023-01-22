@@ -1,5 +1,5 @@
 ---
-title: Configuring a Proxmox Cluster
+title: Flash Dell 720 into IT Mode
 date: 2023-12-28 12:00:00
 categories: [Servers]
 tags: [Dell,Servers,Raid]
